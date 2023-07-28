@@ -1,6 +1,6 @@
 - 👋 Hi, I’m devagya-rattan
 - 👀 I’m interested in machine learning and webdevelopment.
-- 🌱 I’m currently learning web development, MI/AI
+- 🌱 I’m currently learning web development, ML/AI
 - 💞️ I’m looking to collaborate on various open source projects
 
 <!---
