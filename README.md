@@ -18,7 +18,6 @@
 
 <h1>📈My GitHub Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=devagya-rattan&show_icons=true&theme=transparent"/>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 devagya-rattan/devagya-rattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
