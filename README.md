@@ -10,7 +10,7 @@
 <h2> 🚀 &nbsp;Some Skills I Have Used and Learned</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,vscode,sass,react,py,nodejs,materialui,js,html,express,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,vscode,sass,react,py,nodejs,materialui,js,html,express,css,bootstrap,firebase" />
   </a>
 </p>
 
